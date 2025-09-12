@@ -12,7 +12,7 @@ const Hero: React.FC = () => {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img
-            src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop"
+            src="https://www.canva.com/design/DAGyxIIvKg0/PyCsz7DXbRvjGiUTMrirzg/view?utm_content=DAGyxIIvKg0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc033eadef2"
             alt="Developer"
             className="w-32 h-32 rounded-full mx-auto mb-6 shadow-lg ring-4 ring-white"
           />
